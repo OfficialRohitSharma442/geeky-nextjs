@@ -27,7 +27,7 @@ Using what’s already in your pantry not only saves money but also encourages e
 3. Bake at 180°C (350°F) for 10-15 minutes until crispy.  
 4. Let cool and enjoy as a healthy snack.  
 
-![Healthy Veggie Chips](/images/post/post-1.png)
+![Healthy Veggie Chips](/images/post/post-1.jpg)
 *Example of crispy, homemade veggie chips*
 
 By using leftover ingredients creatively, you can make snacks that are not only delicious but also reduce waste and make your kitchen more sustainable.  

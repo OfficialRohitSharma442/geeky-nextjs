@@ -27,7 +27,7 @@ These desserts allow you to get creative with ingredients, flavors, and presenta
 3. Peanut butter bars – mix peanut butter, condensed milk, and crushed biscuits.  
 4. Mini cheesecakes – use cookie base, cream cheese filling, and fruit topping.  
 
-![Delicious No-Bake Dessert](/images/post/post-1.png)
+![Delicious No-Bake Dessert](/images/post/post-1.jpg)
 *Example of quick and easy no-bake dessert*
 
 No-bake desserts are not only tasty but also stress-free to make, letting you enjoy homemade treats in minutes!  

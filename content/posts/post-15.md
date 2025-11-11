@@ -1,7 +1,7 @@
 ---
 title: "How to Make Fun Snacks from Leftover Ingredients"
 date: 2025-11-11T15:00:00Z
-image: /images/post/post-7.png
+image: /images/post/post-15.png
 categories: ["cooking", "snacks"]
 featured: false
 draft: false
@@ -28,7 +28,7 @@ Even when schedules are tight, you can maintain safe and hygienic cooking habits
 - Combine leftovers into snack boxes for a balanced mini-meal  
 - Experiment with simple decoration to make snacks visually appealing  
 
-![Fun Snack Example](/images/post/post-1.png)
+![Fun Snack Example](/images/post/post-15.png)
 *Example of creative snacks using leftover ingredients*
 
 With a little creativity and careful planning, even ordinary leftovers can become extraordinary treats that delight both kids and adults alike.

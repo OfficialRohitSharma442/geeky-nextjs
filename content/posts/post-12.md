@@ -1,7 +1,7 @@
 ---
 title: "Exploring Virtual Flavors: A Guide to Home Meal Prep"
 date: 2025-11-11T12:00:00Z
-image: /images/post/post-4.png
+image: /images/post/post-12.jpg
 categories: ["food", "meal-prep"]
 featured: true
 draft: false
@@ -28,7 +28,7 @@ Even when life gets hectic, a little planning goes a long way:
 - Measuring cups and spoons – for consistent flavors  
 - Non-stick pans – for easy cleanup  
 
-![Meal Prep Example](/images/post/post-1.png)
+![Meal Prep Example](/images/post/post-12.jpg)
 *Example of a well-organized meal prep setup*
 
 With thoughtful planning and the right tools, you can make meal prep as smooth and satisfying as having a virtual assistant for your kitchen.

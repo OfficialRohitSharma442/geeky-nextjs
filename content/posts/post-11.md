@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Healthy Home Cooking"
 date: 2025-11-11T11:00:00Z
-image: /images/post/post-3.png
+image: /images/post/post-11.jpg
 categories: ["food", "healthy-cooking"]
 featured: false
 draft: false
@@ -24,7 +24,7 @@ Maintaining a balanced diet starts with choosing the right ingredients and cooki
 3. Measuring cups & spoons – ensures accurate portioning  
 4. Storage containers – keeps prepped ingredients fresh and ready  
 
-![Healthy Cooking Example](/images/post/post-1.png)
+![Healthy Cooking Example](/images/post/post-11.jpg)
 *Example of a nutritious home-cooked meal*
 
 With the right setup and mindset, cooking at home can be a fun, creative, and healthy experience.

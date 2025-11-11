@@ -27,7 +27,7 @@ A clean workspace also inspires creativity when trying new recipes, whether itâ€
 3. Keep countertops clutter-free to maximize workspace.  
 4. Store pots, pans, and utensils strategically based on usage frequency.  
 
-![Home Kitchen Workspace](/images/post/post-2.png)
+![Home Kitchen Workspace](/images/post/post-2.jpg)
 *Organized kitchen workspace ready for cooking*
 
 A well-set kitchen workspace makes meal prep enjoyable, safe, and efficient. Itâ€™s the foundation for creating delicious dishes every day!  

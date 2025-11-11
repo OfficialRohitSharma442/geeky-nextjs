@@ -26,7 +26,7 @@ From classic spaghetti to filled ravioli, pasta can be a fun weekend project or 
 3. Ravioli – filled with cheese, meat, or vegetables  
 4. Penne – great for baked pasta dishes  
 
-![Fresh Homemade Pasta](/images/post/post-1.png)
+![Fresh Homemade Pasta](/images/post/post-1.jpg)
 *Example of vibrant, freshly made pasta*
 
 Making pasta at home can transform your meals, adding both freshness and a personal touch to traditional recipes.  

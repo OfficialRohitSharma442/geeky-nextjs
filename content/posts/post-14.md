@@ -1,7 +1,7 @@
 ---
 title: "What You Need to Know About Home Cooking Basics"
 date: 2025-11-11T14:00:00Z
-image: /images/post/post-6.png
+image: /images/post/post-14.png
 categories: ["cooking", "youtube"]
 featured: false
 draft: false
@@ -28,7 +28,7 @@ Even when life is hectic, there are ways to stay organized in the kitchen:
 - Timing – coordinate cooking so everything is ready at the same time  
 - Cleaning as you go – keeps your space organized and stress-free  
 
-![Meal Prep Example](/images/post/post-1.png)
+![Meal Prep Example](/images/post/post-14.png)
 *Example of organized meal prep for the week*
 
 With practice and planning, even complicated recipes become manageable, letting you enjoy home-cooked meals without the stress.

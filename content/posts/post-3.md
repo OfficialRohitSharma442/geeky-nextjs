@@ -27,7 +27,7 @@ Good food photography not only engages your readers but also enhances your food 
 3. Reflectors or white cards to bounce light  
 4. Props like plates, utensils, and napkins to enhance composition  
 
-![Deliciously Styled Dish](/images/post/post-3.png)
+![Deliciously Styled Dish](/images/post/post-3.jpg)
 *Example of beautifully styled food ready to photograph*
 
 By mastering food photography, your recipes will not only taste amazing but also look irresistible online, attracting more readers and followers.  

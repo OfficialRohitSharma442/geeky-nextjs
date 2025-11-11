@@ -26,7 +26,7 @@ From spicy tacos to savory dumplings, exploring street foods is a culinary adven
 3. Takoyaki – Japan  
 4. Churros – Spain  
 
-![Delicious Street Food](/images/post/post-1.png)
+![Delicious Street Food](/images/post/post-1.jpg)
 *Example of vibrant and tasty street food*
 
 By sampling and learning from street foods, you can bring unique flavors and techniques into your own kitchen, making everyday meals more exciting.  

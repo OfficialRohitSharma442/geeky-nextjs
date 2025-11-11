@@ -3,89 +3,77 @@ title: "Elements"
 draft: false
 ---
 
-# Heading 1
+# The Art of Simple, Honest Cooking
+
 
 ## Heading 2
+Bringing Flavor Back to Everyday Meals
 
 ### Heading 3
+Seasonal Ingredients, Honest Recipes
 
 #### Heading 4
+Cooking That Feels Like Home
 
 ##### Heading 5
+A Dash of Creativity in Every Dish
 
 ###### Heading 6
+From My Kitchen to Yours
 
 ---
 
 ### Paragraph
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+Hey there, I’m **John Miller** 👋 — welcome to *The Flavor Journal*!  
+Here, I share recipes that make home cooking simple, flavorful, and fun. Whether it’s a weeknight pasta, a cozy soup, or a lazy Sunday breakfast, I believe great food doesn’t have to be complicated.
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+Food, for me, is about connection — to people, places, and stories. Every recipe on this blog comes from a memory, a craving, or a road trip somewhere delicious. So grab a spatula, pour yourself a cup of coffee, and let’s cook something amazing together.
 
 ---
 
 ### Emphasis
 
-1. Did you come here for something in **particular** or just general
-
-2. Did you come here for something in <ins>particular</ins>
-
-3. _Did you come here_
-
-4. Did you come here for **something** in particular
-
-5. Did you come here for something in particular
-
-6. Did you come here for something in particular
-
-7. URLs and URLs in angle brackets will automatically get turned into links. [http://www.example.com](http://www.example.com) or
-
-8. [http://www.example.com](http://www.example.com) and sometimes example.com (but not on Github, for example).
+1. My favorite recipes are made with **simple ingredients** and a lot of love.  
+2. Every meal deserves a little <ins>extra flavor</ins>.  
+3. _Cooking is therapy — and sharing food is joy._  
+4. The secret to great cooking is **balance**, not perfection.  
+5. Baking is where patience meets creativity.  
+6. Try to cook with what’s in season — it’s fresher and better for the planet.  
+7. Visit my blog 👉 [https://www.theflavorjournal.com](https://www.theflavorjournal.com).  
+8. Follow me on [Instagram](https://www.instagram.com/theflavorjournal).  
 
 ---
 
 ### Link
 
-[I'm an inline-style link](https://www.google.com)
+[Read my full story](https://www.theflavorjournal.com/about)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Check out seasonal recipes](https://www.theflavorjournal.com/seasonal)
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+[Subscribe for weekly updates](https://www.theflavorjournal.com/newsletter)
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
+[Contact me for collaborations](mailto:hello@theflavorjournal.com)
 
 ---
 
 ### Ordered List
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+1. Preheat oven to 375°F (190°C).  
+2. Mix flour, sugar, and butter until crumbly.  
+3. Add eggs and milk, then whisk until smooth.  
+4. Pour into a baking pan and bake for 25 minutes.  
+5. Let it cool, then top with fresh berries 🍓.
 
 ---
 
 ### Unordered List
 
-- List item
-- List item
-- List item
-- List item
-- List item
+- Fresh ingredients  
+- Simple techniques  
+- Homemade sauces  
+- Seasonal veggies  
+- Family-style comfort food  
 
 ---
 
@@ -95,12 +83,9 @@ Some text to show that the reference links can follow later.
 
 <Code language="html">
 {`<ul>
-  <li class="nav-item">
-    <a class="nav-link" href="/">Home</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="about/">About</a>
-  </li>
+  <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+  <li class="nav-item"><a class="nav-link" href="/recipes/">Recipes</a></li>
+  <li class="nav-item"><a class="nav-link" href="/about/">About</a></li>
 </ul>`}
 </Code>
 
@@ -111,9 +96,10 @@ Some text to show that the reference links can follow later.
 <Code language="css">
 {`img {
   vertical-align: middle;
-  border: 0;
+  border-radius: 8px;
   max-width: 100%;
   height: auto;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }`}
 </Code>
 
@@ -122,8 +108,9 @@ Some text to show that the reference links can follow later.
 #### JavaScript
 
 <Code language="javascript">
-{`window.addEventListener("load", (e) => {
+{`window.addEventListener("load", () => {
   document.querySelector(".preloader").style.display = "none";
+  console.log("Welcome to The Flavor Journal!");
 })`}
 </Code>
 
@@ -131,61 +118,62 @@ Some text to show that the reference links can follow later.
 
 ### Button
 
-<Button href="#" type="solid">Button</Button>
+<Button href="https://www.theflavorjournal.com/recipes" type="solid">View Recipes</Button>
 
 ---
 
 ### Quote
 
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
+> “Cooking is like love — it should be entered into with abandon or not at all.”  
+> — *Harriet Van Horne*
 
 ---
 
 ### Notice
 
 <Notice type="note">
-  This is a simple note.
+  Try to cook with local produce — it’s fresher and supports your community.
 </Notice>
 
 <Notice type="tip">
-  This is a simple note.
+  Always taste your food while cooking. Adjust seasoning as you go!
 </Notice>
 
 <Notice type="info">
-  This is a simple note.
+  New recipe videos are uploaded every Friday on YouTube.
 </Notice>
 
 <Notice type="warning">
-  This is a simple note.
+  Hot sugar syrup can burn! Always use caution when making caramel.
 </Notice>
 
 ---
 
 <Tabs>
 
-<Tab name="Tab 1">
+<Tab name="Breakfast">
 
-#### Did you come here for something in particular?
+#### Morning Favorites 🍳
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
+Start your day right with fluffy pancakes, avocado toast, or overnight oats.  
+Breakfast doesn’t need to be fancy — just satisfying and quick!
+
 </Tab>
 
-<Tab name="Tab 2">
+<Tab name="Lunch">
 
-#### I wanna talk about the assassination attempt
+#### Midday Meals 🥗
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Fresh salads, grilled sandwiches, and quick bowls that keep you energized through the day.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 </Tab>
 
-<Tab name="Tab 3">
+<Tab name="Dinner">
 
-#### We know you’re dealing in stolen ore
+#### Cozy Evenings 🍝
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Comfort food classics like creamy pastas, roasted chicken, and slow-cooked stews.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
 </Tab>
 
 </Tabs>
@@ -194,44 +182,32 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ### Table
 
-| #   |    First     |     Last     |       Handle |
-| :-- | :----------: | :----------: | -----------: |
-| 1   | Row:1 Cell:1 | Row:1 Cell:2 | Row:1 Cell:3 |
-| 2   | Row:2 Cell:1 | Row:2 Cell:2 | Row:2 Cell:3 |
-| 3   | Row:3 Cell:1 | Row:3 Cell:2 | Row:3 Cell:3 |
+| # | Recipe Name | Prep Time | Difficulty |
+|:-:|:-------------|:-----------:|------------:|
+| 1 | Spaghetti Aglio e Olio | 15 mins | Easy |
+| 2 | Classic Caesar Salad | 20 mins | Easy |
+| 3 | Chicken Tikka Bowl | 30 mins | Medium |
 
 ---
 
 ### Collapse
 
-<Accordion title="Why should you need to do this?">
-
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-
+<Accordion title="Why cook at home?">
+- It’s healthier and more affordable.  
+- You control what goes into your food.  
+- It’s relaxing and creative.  
 </Accordion>
 
-<Accordion title="How can I adjust Horizontal centering">
-
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-
+<Accordion title="How to make your food look great?">
+- Use natural light for photography.  
+- Add fresh herbs or lemon slices for color.  
+- Keep your plate clean and simple.  
 </Accordion>
 
-<Accordion title="Should you use Negative margin?">
-
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-
+<Accordion title="How to store leftovers?">
+- Use airtight containers.  
+- Refrigerate within 2 hours.  
+- Label and date your containers.  
 </Accordion>
 
 ---
@@ -244,7 +220,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ### Youtube video
 
-<Youtube id="ZEe-IFezQok" title="Play:Youtube"/>
+<Youtube id="ZEe-IFezQok" title="How to Make Perfect Pancakes"/>
 
 ---
 

@@ -27,7 +27,7 @@ From creamy chocolate banana blends to refreshing green smoothies, experimenting
 3. Chocolate Banana – banana, cocoa powder, almond milk, and peanut butter  
 4. Tropical Paradise – mango, pineapple, coconut milk, and chia seeds  
 
-![Healthy Smoothie](/images/post/post-1.png)
+![Healthy Smoothie](/images/post/post-1.jpg)
 *Example of a colorful, nutrient-packed smoothie*
 
 With these easy smoothie recipes, you can create delicious, refreshing drinks at home that are both healthy and visually appealing.  
