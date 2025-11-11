@@ -19,7 +19,7 @@
     {
       "name": "Pages",
       "url": "",
-      "hasChildren": true,
+      "hasChildren": false,
       "children": [
         {
           "name": "Categories",

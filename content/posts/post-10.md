@@ -1,25 +1,30 @@
 ---
-title: "My work from home workstation"
-date: 2022-04-04T10:00:00Z
-image: /images/post/post-2.png
-categories: ["programming"]
+title: "Setting Up Your Perfect Home Kitchen"
+date: 2025-11-11T10:00:00Z
+image: /images/post/post-10.jpg
+categories: ["food", "kitchen"]
 featured: false
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Creating a well-organized home kitchen can make cooking at home a joy. A functional setup helps save time and keeps your workflow smooth.  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Invest in storage solutions, countertop organization, and proper lighting to ensure efficiency while cooking. Even a small space can become highly productive with the right layout.  
 
-## Covid-19 Situation
+## Kitchen Hygiene Tips
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Maintaining cleanliness is key for a safe and enjoyable cooking experience. Wipe surfaces regularly and sanitize cutting boards after use.  
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> Tip: Keep frequently used tools within easy reach to make cooking faster and stress-free.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Must-Have Kitchen Setup Items
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+1. Cutting board – protects surfaces and improves prep efficiency  
+2. Knife set – essential for chopping, slicing, and dicing  
+3. Counter space – clear counters help streamline cooking  
+4. Storage containers – keeps ingredients fresh and organized  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+![Home Kitchen Setup](/images/post/post-10.jpg)
+*Example of a tidy and functional home kitchen setup*
+
+A well-arranged kitchen not only boost

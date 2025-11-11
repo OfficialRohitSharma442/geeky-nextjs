@@ -1,8 +1,8 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: "to John's Blog"
+  content: A food enthusiast and blogger, recently started my own food blog to share recipes, flavors, and culinary experiences online
   image_enable: true
   image: /images/banner-author.png
   button:

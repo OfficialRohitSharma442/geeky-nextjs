@@ -1,25 +1,32 @@
 ---
-title: "Drone Software and Development"
-date: 2022-04-04T08:00:00Z
-image: /images/post/post-8.png
-categories: ["drone", "robotics"]
+title: "Mastering Homemade Pasta Recipes"
+date: 2025-11-11T08:00:00Z
+image: /images/post/post-8.jpg
+categories: ["food", "cooking"]
 featured: true
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Homemade pasta is a rewarding way to enjoy fresh, flavorful meals. Making pasta from scratch allows for endless creativity with sauces and shapes.  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+From classic spaghetti to filled ravioli, pasta can be a fun weekend project or a quick weeknight dinner. Experimenting with ingredients can elevate simple recipes.  
 
-## Covid-19 Situation
+## Essential Pasta Tips
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+- Use high-quality flour and fresh eggs for the best texture  
+- Roll dough evenly for consistent cooking  
+- Pair pasta with complementary sauces and fresh herbs  
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> Tip: Cook pasta just until al dente, then finish in the sauce for perfect flavor absorption.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Popular Pasta Varieties
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+1. Spaghetti – classic and versatile  
+2. Fettuccine – ideal for creamy sauces  
+3. Ravioli – filled with cheese, meat, or vegetables  
+4. Penne – great for baked pasta dishes  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+![Fresh Homemade Pasta](/images/post/post-1.png)
+*Example of vibrant, freshly made pasta*
+
+Making pasta at home can transform your meals, adding both freshness and a personal touch to traditional recipes.  
