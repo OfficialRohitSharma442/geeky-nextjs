@@ -2,9 +2,9 @@
   "site": {
     "title": "The Philly Food Fanatic",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_white": "/images/logo-light.png",
+    "favicon": "",
+    "logo": "",
+    "logo_white": "",
     "logo_width": "150",
     "logo_height": "39",
     "logo_text": "The Philly Food Fanatic"
