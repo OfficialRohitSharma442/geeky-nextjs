@@ -50,10 +50,9 @@ const Sidebar = ({ posts, categories, className }) => {
           <ul>
             {categories.map((category, i) => (
               <li
-                className={`relative mb-2 flex items-center justify-between pl-6 text-[16px] font-bold capitalize text-dark dark:text-darkmode-light ${
-                  i !== categories.length - 1 &&
+                className={`relative mb-2 flex items-center justify-between pl-6 text-[16px] font-bold capitalize text-dark dark:text-darkmode-light ${i !== categories.length - 1 &&
                   "border-b border-border  dark:border-darkmode-border"
-                }`}
+                  }`}
                 key={i}
               >
                 <svg
@@ -91,17 +90,15 @@ const Sidebar = ({ posts, categories, className }) => {
           <h4 className="section-title mb-12 text-center">Featured</h4>
           <div className="mb-12 flex items-center justify-center">
             <button
-              className={`btn px-5 py-2 ${
-                showRecent ? "btn-outline-primary" : "btn-primary"
-              }`}
+              className={`btn px-5 py-2 ${showRecent ? "btn-outline-primary" : "btn-primary"
+                }`}
               onClick={() => setShowRecent(false)}
             >
               Featured
             </button>
             <button
-              className={`btn ml-3  px-5 py-2 ${
-                showRecent ? "btn-primary" : "btn-outline-primary"
-              }`}
+              className={`btn ml-3  px-5 py-2 ${showRecent ? "btn-primary" : "btn-outline-primary"
+                }`}
               onClick={() => setShowRecent(true)}
             >
               Recent
@@ -109,75 +106,73 @@ const Sidebar = ({ posts, categories, className }) => {
           </div>
           {showRecent
             ? sortPostByDate
-                .slice(0, featured_posts.showPost)
-                .map((post, i, arr) => (
-                  <div
-                    className={`flex items-center ${
-                      i !== arr.length - 1 &&
-                      "mb-6 border-b border-border pb-6 dark:border-darkmode-border"
+              .slice(0, featured_posts.showPost)
+              .map((post, i, arr) => (
+                <div
+                  className={`flex items-center ${i !== arr.length - 1 &&
+                    "mb-6 border-b border-border pb-6 dark:border-darkmode-border"
                     }`}
-                    key={`key-${i}`}
-                  >
-                    {post.frontmatter.image && (
-                      <ImageFallback
-                        className="mr-3 h-[85px] w-[85px] rounded-full object-cover"
-                        src={post.frontmatter.image}
-                        alt={post.frontmatter.title}
-                        width={105}
-                        height={85}
-                      />
-                    )}
-                    <div>
-                      <h3 className="h5 mb-2">
-                        <Link
-                          href={`/${blog_folder}/${post.slug}`}
-                          className="block hover:text-primary"
-                        >
-                          {post.frontmatter.title}
-                        </Link>
-                      </h3>
-                      <p className="inline-flex items-center font-secondary text-xs">
-                        <FaRegCalendar className="mr-1.5" />
-                        {dateFormat(post.frontmatter.date)}
-                      </p>
-                    </div>
+                  key={`key-${i}`}
+                >
+                  {post.frontmatter.image && (
+                    <ImageFallback
+                      className="mr-3 h-[85px] w-[85px] rounded-full object-cover"
+                      src={post.frontmatter.image}
+                      alt={post.frontmatter.title}
+                      width={105}
+                      height={85}
+                    />
+                  )}
+                  <div>
+                    <h3 className="h5 mb-2">
+                      <Link
+                        href={`/${blog_folder}/${post.slug}`}
+                        className="block hover:text-primary"
+                      >
+                        {post.frontmatter.title}
+                      </Link>
+                    </h3>
+                    <p className="inline-flex items-center font-secondary text-xs">
+                      <FaRegCalendar className="mr-1.5" />
+                      {dateFormat(post.frontmatter.date)}
+                    </p>
                   </div>
-                ))
+                </div>
+              ))
             : featuredPosts
-                .slice(0, featured_posts.showPost)
-                .map((post, i, arr) => (
-                  <div
-                    className={`flex items-center pb-6 ${
-                      i !== arr.length - 1 &&
-                      "mb-6 border-b dark:border-b-darkmode-border"
+              .slice(0, featured_posts.showPost)
+              .map((post, i, arr) => (
+                <div
+                  className={`flex items-center pb-6 ${i !== arr.length - 1 &&
+                    "mb-6 border-b dark:border-b-darkmode-border"
                     }`}
-                    key={`key-${i}`}
-                  >
-                    {post.frontmatter.image && (
-                      <ImageFallback
-                        className="mr-3 h-[85px] w-[85px] rounded-full object-cover"
-                        src={post.frontmatter.image}
-                        alt={post.frontmatter.title}
-                        width={105}
-                        height={85}
-                      />
-                    )}
-                    <div>
-                      <h3 className="h5 mb-2">
-                        <Link
-                          href={`/${blog_folder}/${post.slug}`}
-                          className="block hover:text-primary"
-                        >
-                          {post.frontmatter.title}
-                        </Link>
-                      </h3>
-                      <p className="inline-flex items-center font-secondary text-xs">
-                        <FaRegCalendar className="mr-1.5" />
-                        {dateFormat(post.frontmatter.date)}
-                      </p>
-                    </div>
+                  key={`key-${i}`}
+                >
+                  {post.frontmatter.image && (
+                    <ImageFallback
+                      className="mr-3 h-[85px] w-[85px] rounded-full object-cover"
+                      src={post.frontmatter.image}
+                      alt={post.frontmatter.title}
+                      width={105}
+                      height={85}
+                    />
+                  )}
+                  <div>
+                    <h3 className="h5 mb-2">
+                      <Link
+                        href={`/${blog_folder}/${post.slug}`}
+                        className="block hover:text-primary"
+                      >
+                        {post.frontmatter.title}
+                      </Link>
+                    </h3>
+                    <p className="inline-flex items-center font-secondary text-xs">
+                      <FaRegCalendar className="mr-1.5" />
+                      {dateFormat(post.frontmatter.date)}
+                    </p>
                   </div>
-                ))}
+                </div>
+              ))}
         </div>
       )}
 
@@ -186,16 +181,16 @@ const Sidebar = ({ posts, categories, className }) => {
         <div className="mt-6  rounded border border-border p-6 text-center dark:border-darkmode-border">
           <h4 className="section-title">{newsletter.title}</h4>
           <p className="mt-10 text-xs">{newsletter.content}</p>
-          <MailchimpSubscribe
+          {/* <MailchimpSubscribe
             url={newsletter.malichip_url}
-            render={({ subscribe, status, message }) => (
-              <CustomForm
-                onValidated={(formData) => subscribe(formData)}
-                status={status}
-                message={message}
-              />
-            )}
+            render={({ subscribe, status, message }) => ( */}
+          <CustomForm
+          // onValidated={(formData) => subscribe(formData)}
+          // status={status}
+          // message={message}
           />
+          {/* )}
+          /> */}
           <p className="text-xs">
             By Singing Up, You Agree To
             <Link

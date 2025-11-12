@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
+    "title": "The Philly Food Fanatic",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_white": "/images/logo-light.png",
     "logo_width": "150",
     "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_text": "The Philly Food Fanatic"
   },
   "settings": {
     "theme_switcher": true,
@@ -28,12 +28,12 @@
   "metadata": {
     "meta_author": "Statichunt",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Geeky Nextjs Personal Blog Template"
+    "meta_description": "The Philly Food Fanatic Personal Blog"
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "Sharing recipes, flavors, and stories from around the world — one bite at a time."
     },
     "featured_posts": {
       "enable": true,
@@ -47,13 +47,13 @@
     "newsletter": {
       "enable": true,
       "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "content": "Join thousands of The Philly Food Fanatic subscribers and get our best recipes delivered each week!",
       "privacy_policy_page": "#",
       "malichipm_url": ""
     }
   },
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   }

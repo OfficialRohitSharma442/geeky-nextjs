@@ -5,6 +5,7 @@ import { FaEnvelope, FaMapMarkerAlt, FaUserAlt } from "react-icons/fa";
 import ImageFallback from "./components/ImageFallback";
 
 const Contact = ({ data }) => {
+  console.log({ data })
   const { frontmatter } = data;
   const { title, form_action, phone, mail, location } = frontmatter;
 
