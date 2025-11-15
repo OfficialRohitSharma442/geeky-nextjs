@@ -15,7 +15,17 @@ const Article = ({
   posts,
 }) => {
   const { frontmatter, content } = post;
-
+  console.log({
+    post,
+    mdxContent,
+    slug,
+    allCategories,
+    relatedPosts,
+    posts,
+    frontmatter,
+    content,
+    blog_folder
+  })
   return (
     <PostSingle
       frontmatter={frontmatter}

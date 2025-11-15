@@ -1,8 +1,8 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John's Blog"
-  content: A food enthusiast and blogger, recently started my own food blog to share recipes, flavors, and culinary experiences online
+  title_small: "to Angeliki Nakos's Food Blog"
+  content: A passionate food lover and culinary storyteller sharing easy recipes, bold flavors, restaurant experiences, and helpful cooking tips online.
   image_enable: true
   image: /images/banner-author.png
   button:
@@ -16,7 +16,7 @@ featured_posts:
   title: Featured Posts
 
 promotion:
-  enable: true
+  enable: false
   image: /images/promotion.png
   link: "#"
 
