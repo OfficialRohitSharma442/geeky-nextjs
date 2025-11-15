@@ -3,10 +3,10 @@
     "title": "The Philly Food Fanatic",
     "base_url": "/",
     "favicon": "",
-    "logo": "",
-    "logo_white": "",
+    "logo": "/images/OrangeGreenandYellowIllustratedHealthyFoodLogo.png",
+    "logo_white": "/images/OrangeGreenandYellowIllustratedHealthyFoodLogo.png",
     "logo_width": "150",
-    "logo_height": "39",
+    "logo_height": "98",
     "logo_text": "The Philly Food Fanatic"
   },
   "settings": {
@@ -26,7 +26,7 @@
     "copyright": "Designed and Developed By [Rohit Sharma](https://portfolio-next-bay-one.vercel.app/)"
   },
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "RohitSharma",
     "meta_image": "/images/og-image.png",
     "meta_description": "The Philly Food Fanatic Personal Blog"
   },
