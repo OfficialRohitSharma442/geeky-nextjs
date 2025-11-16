@@ -3,7 +3,7 @@ title: "Stella’s Pizza & Cheesesteaks: A Must-Try Northeast Philly Classic"
 date: 2025-11-11T04:00:00Z
 image: /images/post/post-4.jpeg
 categories: ["food", "philly", "reviews"]
-featured: false
+featured: true
 draft: false
 ---
 

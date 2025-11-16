@@ -16,10 +16,13 @@
 // social icon style
 .social-icons {
   @apply space-x-4;
+
   li {
     @apply inline-block;
+
     a {
       @apply block h-9 w-9 rounded-full border bg-primary text-center text-white;
+
       svg {
         @apply m-auto h-9;
       }
@@ -30,7 +33,7 @@
 // form style
 .form-input,
 .form-textarea {
-  @apply border-0 border-b border-border bg-transparent px-0 placeholder:text-xs placeholder:text-light  focus:border-primary focus:ring-transparent dark:border-darkmode-border dark:text-darkmode-light dark:placeholder:text-darkmode-light;
+  @apply border-0 border-b border-border bg-transparent px-0 placeholder:text-xs placeholder:text-light focus:border-primary focus:ring-transparent dark:border-darkmode-border dark:text-darkmode-light dark:placeholder:text-darkmode-light;
 }
 
 // content style
@@ -56,12 +59,14 @@
   @apply prose-td:px-3 prose-td:py-4 prose-td:dark:text-darkmode-light;
   @apply prose-li:marker:dark:text-darkmode-light;
 
-  img + em {
+  img+em {
     @apply -mt-4 block text-center text-gray-500;
   }
+
   blockquote {
-    & > p {
+    &>p {
       @apply relative text-2xl text-black;
+
       &::after,
       &::before {
         @apply absolute inline-block h-5 w-5 bg-[url('/images/quote.svg')] bg-[length:20px_20px] bg-no-repeat content-[''] lg:h-8 lg:w-8 lg:bg-[length:32px_32px];
@@ -102,16 +107,18 @@
 
 //socials
 .socials {
-  @apply mx-3 flex items-center justify-center  space-x-3 px-4 lg:justify-start lg:border-x 2xl:space-x-4;
+  @apply mx-3 flex items-center justify-center space-x-3 px-4 lg:justify-start lg:border-x 2xl:space-x-4;
+
   li {
     @apply inline-flex;
   }
+
   a {
-    @apply inline-block px-2 py-1 text-lg text-dark  hover:text-primary dark:text-darkmode-light dark:hover:text-primary;
+    @apply inline-block px-2 py-1 text-lg text-dark hover:text-primary dark:text-darkmode-light dark:hover:text-primary;
   }
 }
 
-.newsletter-input:focus + svg {
+.newsletter-input:focus+svg {
   opacity: 0;
 }
 
@@ -134,8 +141,10 @@ footer .socials {
 // notice
 .notice {
   @apply rounded overflow-x-hidden;
+
   .notice-body {
     @apply text-[#666666] dark:text-darkmode-light;
+
     p {
       @apply my-0 text-[#666666] dark:text-darkmode-light;
     }
@@ -145,8 +154,10 @@ footer .socials {
     .notice-head {
       @apply bg-[#6ab0de] dark:bg-[#97d6ffcc];
     }
+
     .notice-body {
-      @apply bg-[rgb(227,244,255)] dark:bg-[#97d6ff26];
+      // @apply bg-[rgb(227, 244, 255)] dark:bg-[#97d6ff26];
+      @apply bg-[rgb(227_244_255)] dark:bg-[#97d6ff26];
     }
   }
 
@@ -154,6 +165,7 @@ footer .socials {
     .notice-head {
       @apply bg-[#78c578] dark:bg-[#96ff96cc];
     }
+
     .notice-body {
       @apply bg-[#e2ffe2] dark:bg-[#96ff9626];
     }
@@ -163,6 +175,7 @@ footer .socials {
     .notice-head {
       @apply bg-[#f0b37e] dark:bg-[#ffc392cc];
     }
+
     .notice-body {
       @apply bg-[#ffedde] dark:bg-[#ffc39226];
     }
@@ -172,6 +185,7 @@ footer .socials {
     .notice-head {
       @apply bg-[#e06f6c] dark:bg-[#ff918ccc];
     }
+
     .notice-body {
       @apply bg-[#ffdad8] dark:bg-[#ff918c26];
     }
@@ -186,6 +200,7 @@ footer .socials {
   img {
     width: 100%;
     height: auto;
+    max-height: 500px;
   }
 }
 
@@ -193,9 +208,10 @@ footer .socials {
   blockquote {
     @apply px-12 lg:px-[105px];
 
-    & > p {
+    &>p {
       @apply lg:text-[24px];
       @apply relative text-2xl text-black;
+
       &::after,
       &::before {
         @apply absolute inline-block h-8 w-8 bg-[url('/images/quote.svg')] bg-[length:32px_32px] bg-no-repeat content-[''];

@@ -3,7 +3,7 @@ title: "🦞 The Boiling House Cherry Hill – The Ultimate Seafood Boil Experie
 date: 2025-11-11T01:00:00Z
 image: /images/post/post-1.jpeg
 categories: ["food"]
-featured: false
+featured: true
 draft: false
 ---
 
