@@ -33,13 +33,12 @@ const Header = () => {
     <header className="header">
       <nav className="navbar container px-1 sm:px-8">
         <div className="order-0">
-          <Logo />
+          <Logo className={"absolute h-[400px] top-[-17px]"} />
         </div>
         <div className="flex items-center space-x-4 xl:space-x-8">
           <div
-            className={`collapse-menu ${
-              !showMenu && "translate-x-full"
-            } lg:flex lg:translate-x-0`}
+            className={`collapse-menu ${!showMenu && "translate-x-full"
+              } lg:flex lg:translate-x-0`}
           >
             <button
               className="absolute right-6 top-11 lg:hidden"
@@ -62,11 +61,10 @@ const Header = () => {
                   {menu.hasChildren ? (
                     <li className="nav-item nav-dropdown group relative">
                       <span
-                        className={`nav-link ${
-                          menu.children
-                            .map((c) => c.url)
-                            .includes(router.asPath) && "active"
-                        } inline-flex items-center`}
+                        className={`nav-link ${menu.children
+                          .map((c) => c.url)
+                          .includes(router.asPath) && "active"
+                          } inline-flex items-center`}
                       >
                         {menu.name}
                         <svg
@@ -84,9 +82,8 @@ const Header = () => {
                           >
                             <Link
                               href={child.url}
-                              className={`nav-dropdown-link block ${
-                                router.asPath === child.url && "active"
-                              }`}
+                              className={`nav-dropdown-link block ${router.asPath === child.url && "active"
+                                }`}
                             >
                               {child.name}
                             </Link>
@@ -98,9 +95,8 @@ const Header = () => {
                     <li className="nav-item">
                       <Link
                         href={menu.url}
-                        className={`nav-link block ${
-                          router.asPath === menu.url && "active"
-                        }`}
+                        className={`nav-link block ${router.asPath === menu.url && "active"
+                          }`}
                       >
                         {menu.name}
                       </Link>

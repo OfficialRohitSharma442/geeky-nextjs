@@ -4,7 +4,7 @@ import { useTheme } from "next-themes";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
-const Logo = ({ src }) => {
+const Logo = ({ src, className }) => {
   // destructuring items from config object
   const { logo, logo_white, logo_width, logo_height, logo_text, title } =
     config.site;
@@ -13,7 +13,7 @@ const Logo = ({ src }) => {
   useEffect(() => setMounted(true), []);
 
   return (
-    <Link href="/" className="navbar-brand">
+    <Link href="/" className={`navbar-brand ${className} `}>
       {src || logo ? (
         <ImageFallback
           width={logo_width.replace("px", "") * 2}
