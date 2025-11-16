@@ -14,11 +14,11 @@ education:
 experience:
   title: Experience
   list:
-    - "Founder of the food blog *The Flavor Journal* (est. 2018)"
-    - "Featured in *The New York Times Cooking* and *Food52*"
-    - "Collaborated with brands like KitchenAid, HelloFresh, and Target"
-    - "Host of the podcast *Cooking Conversations with John*"
-    - "Recipe developer and food photographer for *Taste of Home*"
+    - "300+ restaurant reviews across Philadelphia & Bucks County"
+    - "Published memoir: The Queen of Linens"
+    - "Featured on WMMR’s “Her Story”"
+    - "Built strong community on Instagram & social platforms"
+    - "Managed brand collaborations & sponsored campaigns"
 ---
 
 
