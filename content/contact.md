@@ -1,6 +1,6 @@
 ---
 title: "Let’s, Talk </br> About You"
-description: "meta description"
+description: "Contact ThePhillyFoodFanatic for collaborations, media inquiries, partnerships, events, reviews, or to simply connect. Let’s talk about your story!"
 phone: "+211234565523"
 mail: "ThephillyFF@gmail.com"
 location: "9567 Turner Trace Apt. BC C3G8A4"
@@ -14,7 +14,7 @@ addresses:
     content: ThephillyFF@gmail.com
     link: mailto:ThephillyFF@gmail.com
   - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+    content: 
 
 draft: false
 ---
