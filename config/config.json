@@ -3,8 +3,8 @@
     "title": "The Philly Food Fanatic",
     "base_url": "/",
     "favicon": "",
-    "logo": "",
-    "logo_white": "",
+    "logo": "/images/ThePhillyFoodFanatic1.png",
+    "logo_white": "/images/ThePhillyFoodFanatic1.png",
     "logo_width": "150",
     "logo_height": "98",
     "logo_text": "The Philly Food Fanatic"
