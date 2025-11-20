@@ -6,6 +6,7 @@ import Tab from "./Tab";
 import Tabs from "./Tabs";
 import Video from "./Video";
 import Youtube from "./Youtube";
+import Promotion from "./Promotion"
 
 const shortcodes = {
   Button,
@@ -15,7 +16,8 @@ const shortcodes = {
   Tabs,
   Notice,
   Code,
-  Youtube
+  Youtube,
+  Promotion
 };
 
 export default shortcodes;

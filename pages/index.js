@@ -11,6 +11,7 @@ import { sortByDate } from "@lib/utils/sortFunctions";
 import { markdownify } from "@lib/utils/textConverter";
 import Link from "next/link";
 import { FaRegCalendar } from "react-icons/fa";
+import Promotion from "@layouts/shortcodes/Promotion"
 const { blog_folder, pagination } = config.settings;
 
 const Home = ({
@@ -133,13 +134,14 @@ const Home = ({
               {/* Promotion */}
               {promotion.enable && (
                 <Link href={promotion.link} className="section block pt-0">
-                  <ImageFallback
+                  {/* <ImageFallback
                     className="h-full w-full"
                     height="115"
                     width="800"
                     src={promotion.image}
                     alt="promotion"
-                  />
+                  /> */}
+                  <Promotion />
                 </Link>
               )}
 

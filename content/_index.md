@@ -1,7 +1,7 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to Angeliki Nakos's Food Blog"
+  title_small: "to The Philly Food Fanatic  Blog "
   content: A passionate food lover and culinary storyteller sharing easy recipes, bold flavors, restaurant experiences, and helpful cooking tips online.
   image_enable: true
   image: /images/banner-author.png
@@ -16,7 +16,7 @@ featured_posts:
   title: Featured Posts
 
 promotion:
-  enable: false
+  enable: true
   image: /images/promotion.png
   link: "#"
 
