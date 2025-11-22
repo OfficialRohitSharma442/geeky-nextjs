@@ -31,7 +31,6 @@ experience:
    
 ---
 
-# ⭐ **About Angeliki Nakos | ThePhillyFoodFanatic™**
 ### *Food Blogger • Bestselling Author • Recipe Developer • Philadelphia’s #1 Food Influencer • Google Local Guide*
 
 **Welcome! I’m Angeliki Nakos**, the creator behind **ThePhillyFoodFanatic™** — a food platform built on flavor, storytelling, and community.
