@@ -9,11 +9,13 @@ import { getTaxonomy } from "@lib/taxonomyParser";
 import dateFormat from "@lib/utils/dateFormat";
 import { sortByDate } from "@lib/utils/sortFunctions";
 import { markdownify } from "@lib/utils/textConverter";
+import { useTheme } from "next-themes";
 import Link from "next/link";
 import { FaRegCalendar } from "react-icons/fa";
 import Promotion from "@layouts/shortcodes/Promotion"
 const { blog_folder, pagination } = config.settings;
-
+const { logo, logo_white, logo_width, logo_height, logo_text, title } =
+  config.site;
 const Home = ({
   banner,
   posts,
@@ -22,6 +24,7 @@ const Home = ({
   categories,
   promotion,
 }) => {
+  const { theme, resolvedTheme } = useTheme();
   // define state
   const sortPostByDate = sortByDate(posts);
   const featuredPosts = sortPostByDate.filter(
@@ -64,7 +67,9 @@ const Home = ({
               <div className="col-9 lg:col-6">
                 <ImageFallback
                   className="mx-auto object-contain"
-                  src={banner.image}
+                  src={(theme === "dark" || resolvedTheme === "dark")
+                    ? logo_white
+                    : logo}
                   width={548}
                   height={443}
                   priority={true}

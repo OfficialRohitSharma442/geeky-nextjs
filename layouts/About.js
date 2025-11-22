@@ -33,12 +33,20 @@ const About = ({ data }) => {
             <div className="rounded border border-border p-6 dark:border-darkmode-border ">
               {markdownify(education.title, "h2", "section-title mb-12")}
               <div className="row">
-                {education.degrees.map((degree, index) => (
+                {/* {education.degrees.map((degree, index) => (
                   <div className="mb-7 md:col-6" key={"degree-" + index}>
                     <h4 className="text-base lg:text-[25px]">
                       {degree.university}
                     </h4>
                     <p className="mt-2">{degree.content}</p>
+                  </div>
+                ))} */}
+                {education.platforms.map((item, index) => (
+                  <div className="mb-7 md:col-6" key={"platform-" + index}>
+                    <h4 className="text-base lg:text-[25px]">
+                      {item.platform}
+                    </h4>
+                    <p className="mt-2">{item.content}</p>
                   </div>
                 ))}
               </div>

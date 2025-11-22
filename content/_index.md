@@ -4,7 +4,7 @@ banner:
   title_small: "to The Philly Food Fanatic  Blog "
   content: A passionate food lover and culinary storyteller sharing easy recipes, bold flavors, restaurant experiences, and helpful cooking tips online.
   image_enable: true
-  image: /images/banner-author.png
+  image: /images/logo-Dark.png
   button:
     enable: true
     label: Know About Me

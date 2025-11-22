@@ -1,60 +1,68 @@
 "use client";
 
-// import counts from "@/data/promotionCounts.json";
-
 // React Icons
-import { FaYoutube, FaTwitter, FaInstagram } from "react-icons/fa";
+import { FaInstagram, FapaperPlane } from "react-icons/fa"; // Paper plane icon add kiya hai button ke liye
+import Link from "next/link";
 
 export default function Promotion() {
-  const cards = [
-    {
-      key: "youtube",
-      label: "YouTube Subscribers",
-      icon: <FaYoutube className="text-3xl" />,
-      iconBg: "bg-red-600",
-    },
-    {
-      key: "twitter",
-      label: "Twitter Followers",
-      icon: <FaTwitter className="text-3xl" />,
-      iconBg: "bg-sky-500",
-    },
-    {
-      key: "instagram",
-      label: "Instagram Followers",
-      icon: <FaInstagram className="text-3xl" />,
-      iconBg: "bg-pink-500",
-    },
-  ];
-
   return (
-    <section className="">
-      <div className="mx-auto max-w-5xl ">
-        <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
-          {cards.map((card) => {
-            const value = 0;
+    <section className="py-12 px-4">
+      <div className="mx-auto max-w-md">
+        {/* Card Container */}
+        <div className="relative group">
 
-            return (
-              <div
-                key={card.key}
-                className="flex flex-col items-center rounded-xl bg-white px-6 py-6 shadow-sm ring-1 ring-gray-100"
+          {/* Background Gradient Glow Effect (Optional for cool look) */}
+          <div className="absolute -inset-1 bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-600 rounded-2xl blur opacity-25 group-hover:opacity-75 transition duration-500"></div>
+
+          {/* Main Card */}
+          <div className="relative flex flex-col items-center bg-white dark:bg-gray-900 rounded-2xl border border-gray-200 dark:border-gray-800 p-8 shadow-xl text-center">
+
+            {/* Icon with Instagram Gradient Background */}
+            <div className="mb-6 flex h-20 w-20 items-center justify-center rounded-full bg-gradient-to-tr from-yellow-400 via-red-500 to-purple-600 shadow-lg transform transition duration-500 group-hover:scale-110">
+              <FaInstagram className="text-4xl text-white" />
+            </div>
+
+            {/* Heading */}
+            <h3 className="text-lg font-medium text-gray-600 dark:text-gray-400">
+              thephillyfoodfanatic
+            </h3>
+
+            {/* Follower Count - Highlighted */}
+            <p className="mt-2 text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight">
+              580k+
+            </p>
+            <p className="text-sm text-gray-500 dark:text-gray-400 mb-8">
+              Active Followers
+            </p>
+
+            {/* Divider */}
+            <div className="w-full border-t border-gray-200 dark:border-gray-800 mb-8"></div>
+
+            {/* Call to Action Button */}
+            <div className="w-full">
+              <p className="mb-4 text-sm font-medium text-gray-600 dark:text-gray-300">
+                Looking to promote your brand?
+              </p>
+              <Link
+                href="/contact"
+                className="flex items-center justify-center w-full gap-2 rounded-full bg-gray-900 px-6 py-3 text-sm font-bold text-white transition hover:bg-gray-800 dark:bg-white dark:text-gray-900 dark:hover:bg-gray-200"
               >
-                <div
-                  className={`mb-3 flex h-14 w-14 items-center justify-center rounded-full ${card.iconBg} text-white`}
+                Contact for Promotion
+                {/* Arrow/Send Icon */}
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth={2}
+                  stroke="currentColor"
+                  className="w-4 h-4"
                 >
-                  {card.icon}
-                </div>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+                </svg>
+              </Link>
+            </div>
 
-                <p className="text-3xl font-semibold text-gray-900">
-                  {value}
-                </p>
-
-                <p className="mt-1 text-sm font-medium text-gray-500">
-                  {card.label}
-                </p>
-              </div>
-            );
-          })}
+          </div>
         </div>
       </div>
     </section>

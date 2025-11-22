@@ -1,15 +1,23 @@
 ---
-title: About The Angeliki Nakos
-image: /images/author.png
+title: About Angeliki Nakos
+image: /images/author.jpeg
 description: "Angeliki Nakos — US-based food blogger, recipe creator, and food photographer sharing approachable, flavor-packed recipes for everyday cooks."
 layout: about
 education:
-  title: Formal Education
-  degrees:
-    - university: "New York University (NYU)"
-      content: "B.S. in Nutrition and Food Studies • 2010–2014 • Specialized in Culinary Nutrition and Food Media."
-    - university: "Culinary Institute of America, Hyde Park"
-      content: "Associate Degree in Culinary Arts • 2015–2016 • Focused on modern American and Mediterranean cuisine."
+ title: Social Media & Content Creation 
+ platforms:
+   - platform: "Instagram"
+     content: "580k followers • Reels & food photography"
+  #  - platform: "tictok"
+  #    content: "Recipe videos, cooking tips & kitchen product reviews"
+  #  - platform: "Pinterest"
+  #    content: "Viral recipe pins • High monthly reach"
+ skills:
+  - "Food Photography"
+  - "Video Editing"
+  - "Brand Collaboration"
+  - "Storytelling & Script Writing"
+
 
 experience:
   title: Experience
@@ -19,61 +27,139 @@ experience:
     - "Featured on WMMR’s “Her Story”"
     - "Built strong community on Instagram & social platforms"
     - "Managed brand collaborations & sponsored campaigns"
+
+   
 ---
 
+# ⭐ **About Angeliki Nakos | ThePhillyFoodFanatic™**
+### *Food Blogger • Bestselling Author • Recipe Developer • Philadelphia’s #1 Food Influencer • Google Local Guide*
 
-**Angeliki Nakos** is a highly respected **US-based food blogger, recipe developer, food photographer, and bestselling author**, widely known for her approachable, flavor-packed, and beginner-friendly recipes. Blending her Greek-American heritage with modern home cooking, Angeliki has built a thriving community of everyday cooks who trust her for reliable recipes, inspiring stories, and beautifully styled food content.
+**Welcome! I’m Angeliki Nakos**, the creator behind **ThePhillyFoodFanatic™** — a food platform built on flavor, storytelling, and community.
 
-## **Bestselling Author & Storyteller**
+I’m a **US-based food blogger, bestselling author, recipe developer, food photographer**, and one of **Philadelphia’s most trusted food influencers**, with a combined audience of **583K+ followers**, **12–20 million monthly views**, and **44M+ Google photo views**.
 
-Her bestselling memoir, **“The Queen of Linens,”** introduced the world to her powerful storytelling. In the book, Angeliki opens up about her past with raw honesty—from a life of extraordinary luxury, complete with **three Lamborghinis, a Bentley, and a lavish home**, to surviving domestic violence that left her hospitalized for four days. Her journey of resilience, strength, and rebirth has made her an influential and inspiring female voice in both the **food** and **literary** world.
+My mission is simple:  
+**to help you fall in love with food — whether you’re cooking at home or exploring the best restaurants in Philadelphia.**
 
-## **A Journey of Rebuilding & Rediscovery**
+---
 
-Despite losing almost everything and being forced from her home with her children and nowhere to go, Angeliki rebuilt her life step by step. During this time, she rediscovered her passion for cooking—a space that allowed her to heal, express creativity, and reconnect with her cultural roots.
+## ⭐ **My Story: From Survival to Strength**
 
-This passion grew into **@thephillyfoodfanatic**, her widely followed food platform where she shares:
+My journey into food hasn’t been ordinary.
 
-- **Flavorful, easy weeknight meals**
-- **Budget-friendly family dinners**
-- **Mediterranean & Greek-inspired dishes**
-- **Quick desserts and breakfast ideas**
-- **Comfort food favorites**
-- **Holiday recipes & entertaining menus**
-- **High-quality food photography and styling tips**
+In my bestselling memoir, **“The Queen of Linens,”** I share my deeply personal story — a life that began in extraordinary luxury and took a heartbreaking turn when I survived domestic violence that left me hospitalized for four days.
 
-Her recipes are intentionally crafted to be **simple, accessible, and achievable** for home cooks at any skill level. Angeliki believes that food should be comforting, joyful, and nourishing—both emotionally and physically.
+I lost nearly everything.  
+I had to rebuild my life from scratch with my children.
 
-## **Greek-American Roots & Culinary Philosophy**
+And in that rebuilding, I rediscovered something that saved me:  
+**cooking.**
 
-As a **first-generation Greek-American**, Angeliki celebrates her heritage through vibrant, wholesome dishes that highlight:
+Food became my therapy, my outlet, and my path back to myself.  
+It gave me purpose, comfort, and the strength to start again.
 
-- Fresh ingredients  
-- Bold Mediterranean flavors  
-- Time-honored Greek traditions  
+---
 
-Her cooking reflects everything she values: **warmth, family, resilience, creativity, and community**.
+## ⭐ **The Birth of ThePhillyFoodFanatic™**
 
-## **More Than a Food Creator**
+What started as a way to share recipes and reconnect with my Greek-American roots grew into a thriving community of home cooks — and then into **Philadelphia’s #1 restaurant discovery platform**.
 
-Today, Angeliki is not only a food content creator—she is also:
+Today, **ThePhillyFoodFanatic™** is trusted by millions across:
 
-- A **domestic violence survivor advocate**
-- A **voice for women’s empowerment**
-- A **motivational figure** who inspires others to transform pain into purpose
+- Instagram  
+- TikTok  
+- Facebook  
+- YouTube  
+- Google Maps & Search  
 
-Her story has been featured on respected platforms like **“Her Story with Kathy Romano,”** where she spoke about turning trauma into triumph and rebuilding her life with purpose.
+People don’t read menus anymore — **they watch them.**  
+And they watch them here.
 
-## **Why Readers Love Her**
+---
+
+## 🔥 **Your #1 Guide to Where to Eat in Philadelphia (2025)**
 
 Whether you’re searching for:
 
-- ✔ Easy, flavorful recipes  
-- ✔ Authentic Mediterranean & Greek dishes  
-- ✔ Family-friendly cooking ideas  
-- ✔ Food photography inspiration  
-- ✔ A powerful real-life story of resilience and empowerment  
+- The best restaurants in Philadelphia  
+- Top cheesesteaks and Italian spots  
+- Hidden-gem BYOBs  
+- New restaurant openings  
+- Family-owned favorites  
+- Late-night eats  
+- Viral dishes trending in the city  
 
-**Angeliki Nakos—known as @thephillyfoodfanatic—is a creator you’ll instantly connect with.**  
-Her food warms the kitchen,  
-**and her story warms the heart.**
+You’ll find it all on **ThePhillyFoodFanatic™**.
+
+My content helps restaurants get discovered through:
+
+- Viral reels & short-form video  
+- SEO-optimized Google reviews  
+- High-ranking Google Maps photos  
+- Local SEO–boosting restaurant spotlights  
+- Honest, firsthand recommendations  
+
+When I feature a restaurant, people show up — and Google sees it too.
+
+---
+
+## ⭐ **Why My Google Reviews Are a Game-Changer**
+
+As a **Level 8 Google Local Guide**, my reviews and photos help restaurants:
+
+- Rank higher in “near me” searches  
+- Gain long-term visibility on Google Maps  
+- Improve SEO through keyword-rich reviews  
+- Reach tens of thousands of new potential customers  
+
+You can’t buy this kind of organic visibility.  
+It’s real, authentic, and incredibly effective.
+
+---
+
+## ⭐ **My Recipes: Where Comfort Meets Culture**
+
+While I spotlight restaurants, my heart still lives in the kitchen.
+
+I share approachable, flavor-packed recipes inspired by:
+
+- My **Greek heritage**  
+- Modern home cooking  
+- Budget-friendly family meals  
+- Quick desserts & breakfast ideas  
+- Weeknight comfort food  
+- Holiday recipes & entertaining menus  
+
+My cooking philosophy is simple:  
+**Food should be comforting, joyful, and accessible for everyone.**
+
+---
+
+## ⭐ **More Than a Food Creator**
+
+Beyond recipes and restaurant content, I am:
+
+- A **domestic violence survivor advocate**  
+- A **voice for women’s empowerment**  
+- A **motivational storyteller**  
+- A believer that pain can become purpose  
+
+I’ve shared my story on platforms like **“Her Story with Kathy Romano”**, where I speak openly about healing, resilience, and rebuilding a life filled with meaning.
+
+---
+
+## ⭐ **Why People Love This Community**
+
+Visitors come here for:
+
+✔ Easy, delicious recipes  
+✔ Authentic Mediterranean & Greek dishes  
+✔ Honest restaurant recommendations  
+✔ Google-ranked guidance  
+✔ Philly food trends  
+✔ Beautiful food photography  
+✔ A story of resilience that inspires  
+
+My food warms the kitchen —  
+**and my story warms the heart.**
+
