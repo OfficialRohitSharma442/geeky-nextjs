@@ -1,7 +1,7 @@
 ---
-title: About Angeliki Nakos and Jon Dipippo
+title: About Angeliki Nakos and Jon DiPippo
 image: /images/author.jpeg
-description: "Angeliki Nakos and Jon Dipippo — US-based food blogger, recipe creator, and food photographer sharing approachable, flavor-packed recipes for everyday cooks."
+description: "Angeliki Nakos and Jon DiPippo — US-based food blogger, recipe creator, and food photographer sharing approachable, flavor-packed recipes for everyday cooks."
 layout: about
 education:
  title: Social Media & Content Creation 
@@ -33,7 +33,7 @@ experience:
 
 ### *Food Blogger • Bestselling Author • Recipe Developer • Philadelphia’s #1 Food Influencer • Google Local Guide*
 
-**Welcome! I’m Angeliki Nakos & Jon Dipippo**, the creator behind **ThePhillyFoodFanatic™** — a food platform built on flavor, storytelling, and community.
+**Welcome! I’m Angeliki Nakos & Jon DiPippo**, the creator behind **ThePhillyFoodFanatic™** — a food platform built on flavor, storytelling, and community.
 
 I’m a **US-based food blogger, bestselling author, recipe developer, food photographer**, and one of **Philadelphia’s most trusted food influencers**, with a combined audience of **583K+ followers**, **12–20 million monthly views**, and **44M+ Google photo views**.
 
@@ -42,7 +42,7 @@ My mission is simple:
 
 ---
 
-## ⭐ **My Story: From Survival to Strength**
+## ⭐ My Story: From Survival to Strength
 
 My journey into food hasn’t been ordinary.
 
@@ -59,7 +59,7 @@ It gave me purpose, comfort, and the strength to start again.
 
 ---
 
-## ⭐ **The Birth of ThePhillyFoodFanatic™**
+## ⭐ The Birth of ThePhillyFoodFanatic™
 
 What started as a way to share recipes and reconnect with my Greek-American roots grew into a thriving community of home cooks — and then into **Philadelphia’s #1 restaurant discovery platform**.
 
@@ -76,7 +76,28 @@ And they watch them here.
 
 ---
 
-## 🔥 **Your #1 Guide to Where to Eat in Philadelphia (2025)**
+## ⭐ Why Social Media Is the Only Real Advertising Today
+
+Consumer behavior has changed — dramatically.
+
+According to Google’s own marketing insights, people now discover brands through:
+
+> **“Short-form video, creator recommendations, and social feeds more than any traditional advertising channel.”**
+
+This is where customers *live* — and where brands *win.*
+
+- Reels and stories deliver instant, high-impact visual marketing  
+- Social feeds act as today’s “homepage” for businesses  
+- Authentic creator content outperforms traditional paid ads  
+- Social platforms are immediate, emotional, and shareable  
+- Brands are shifting the majority of their advertising dollars here — because it works  
+
+**Simply put:**  
+If you’re not advertising on social media, you’re not showing up where customers spend their time.
+
+---
+
+## ⭐ Your #1 Guide to Where to Eat in Philadelphia (2025)
 
 Whether you’re searching for:
 
@@ -102,39 +123,28 @@ When I feature a restaurant, people show up — and Google sees it too.
 
 ---
 
-## ⭐ **Why My Google Reviews Are a Game-Changer**
+## ⭐ Why Our Google Reviews Are a Game-Changer
 
-As a **Level 8 Google Local Guide**, my reviews and photos help restaurants:
+This has become one of the strongest pillars of our partnerships.
 
-- Rank higher in “near me” searches  
-- Gain long-term visibility on Google Maps  
-- Improve SEO through keyword-rich reviews  
-- Reach tens of thousands of new potential customers  
+As a **Level 8 Google Local Guide** with top 1% visibility and **44+ million photo views**, my reviews function as powerful SEO engines for restaurants.
 
-You can’t buy this kind of organic visibility.  
-It’s real, authentic, and incredibly effective.
+Here’s what happens when I review your business:
 
----
+- You rank higher in local “near me” searches  
+- My photos receive tens of thousands of views  
+- My long-form, keyword-rich reviews act like mini-articles Google *loves*  
+- Your business gains permanent visibility on Google Maps & Search  
+- You generate long-term discovery and real foot traffic  
 
-## ⭐ **My Recipes: Where Comfort Meets Culture**
-
-While I spotlight restaurants, my heart still lives in the kitchen.
-
-I share approachable, flavor-packed recipes inspired by:
-
-- My **Greek heritage**  
-- Modern home cooking  
-- Budget-friendly family meals  
-- Quick desserts & breakfast ideas  
-- Weeknight comfort food  
-- Holiday recipes & entertaining menus  
-
-My cooking philosophy is simple:  
-**Food should be comforting, joyful, and accessible for everyone.**
+You can’t buy this kind of influence with ads.  
+**It’s organic, authentic, and incredibly effective.**
 
 ---
+![Angeliki & Jon](/images/Angeliki&Jon.jpeg)
 
-## ⭐ **More Than a Food Creator**
+
+## ⭐ More Than a Food Creator
 
 Beyond recipes and restaurant content, I am:
 
@@ -143,11 +153,11 @@ Beyond recipes and restaurant content, I am:
 - A **motivational storyteller**  
 - A believer that pain can become purpose  
 
-I’ve shared my story on platforms like **“Her Story with Kathy Romano”**, where I speak openly about healing, resilience, and rebuilding a life filled with meaning.
+I’ve shared my story on platforms like **“Her Story with Kathy Romano,”** where I speak openly about healing, resilience, and rebuilding a life filled with meaning.
 
 ---
 
-## ⭐ **Why People Love This Community**
+## ⭐ Why People Love This Community
 
 Visitors come here for:
 
@@ -161,4 +171,3 @@ Visitors come here for:
 
 My food warms the kitchen —  
 **and my story warms the heart.**
-
