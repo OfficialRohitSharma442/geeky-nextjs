@@ -1,13 +1,13 @@
 ---
-title: About Angeliki Nakos
+title: About Angeliki Nakos and Jon Dipippo
 image: /images/author.jpeg
-description: "Angeliki Nakos — US-based food blogger, recipe creator, and food photographer sharing approachable, flavor-packed recipes for everyday cooks."
+description: "Angeliki Nakos and Jon Dipippo — US-based food blogger, recipe creator, and food photographer sharing approachable, flavor-packed recipes for everyday cooks."
 layout: about
 education:
  title: Social Media & Content Creation 
  platforms:
    - platform: "Instagram"
-     content: "580k followers • Reels & food photography"
+     content: "550k followers • Reels & food photography"
   #  - platform: "tictok"
   #    content: "Recipe videos, cooking tips & kitchen product reviews"
   #  - platform: "Pinterest"
@@ -33,7 +33,7 @@ experience:
 
 ### *Food Blogger • Bestselling Author • Recipe Developer • Philadelphia’s #1 Food Influencer • Google Local Guide*
 
-**Welcome! I’m Angeliki Nakos**, the creator behind **ThePhillyFoodFanatic™** — a food platform built on flavor, storytelling, and community.
+**Welcome! I’m Angeliki Nakos & Jon Dipippo**, the creator behind **ThePhillyFoodFanatic™** — a food platform built on flavor, storytelling, and community.
 
 I’m a **US-based food blogger, bestselling author, recipe developer, food photographer**, and one of **Philadelphia’s most trusted food influencers**, with a combined audience of **583K+ followers**, **12–20 million monthly views**, and **44M+ Google photo views**.
 

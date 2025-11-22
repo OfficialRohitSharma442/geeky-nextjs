@@ -15,7 +15,7 @@ export default function Promotion() {
           <div className="absolute -inset-1 bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-600 rounded-2xl blur opacity-25 group-hover:opacity-75 transition duration-500"></div>
 
           {/* Main Card */}
-          <div className="relative flex flex-col items-center bg-white dark:bg-gray-900 rounded-2xl border border-gray-200 dark:border-gray-800 p-8 shadow-xl text-center">
+          <div className="relative flex flex-col items-center bg-white dark:bg-[#111111] rounded-2xl border border-gray-200 dark:border-gray-800 p-8 shadow-xl text-center">
 
             {/* Icon with Instagram Gradient Background */}
             <div className="mb-6 flex h-20 w-20 items-center justify-center rounded-full bg-gradient-to-tr from-yellow-400 via-red-500 to-purple-600 shadow-lg transform transition duration-500 group-hover:scale-110">
@@ -29,7 +29,7 @@ export default function Promotion() {
 
             {/* Follower Count - Highlighted */}
             <p className="mt-2 text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight">
-              580k+
+              550k+
             </p>
             <p className="text-sm text-gray-500 dark:text-gray-400 mb-8">
               Active Followers
@@ -45,7 +45,7 @@ export default function Promotion() {
               </p>
               <Link
                 href="/contact"
-                className="flex items-center justify-center w-full gap-2 rounded-full bg-gray-900 px-6 py-3 text-sm font-bold text-white transition hover:bg-gray-800 dark:bg-white dark:text-gray-900 dark:hover:bg-gray-200"
+                className="flex items-center justify-center transition  btn-primary"
               >
                 Contact for Promotion
                 {/* Arrow/Send Icon */}
